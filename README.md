@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm LucasMeloOne</h1>
 <h3 align="center">Student of Analysis and Systems Development at FATEC (Faculty of Technology)</h3>
 
-- 📫 How to reach me **lucasdanielferreiradasilva@hotmail.com**
+- 📫 My email for contact: **lucasdanielferreiradasilva@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
