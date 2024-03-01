@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm LucasMeloOne</h1>
+<h1 align="center">Hi, I'm OnlyLucas</h1>
 <h3 align="center">Student of Analysis and Systems Development at FATEC (Faculty of Technology)</h3>
 
 - 📫 My email for contact: **lucasdanielferreiradasilva@hotmail.com**
