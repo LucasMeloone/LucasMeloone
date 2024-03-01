@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm LucasMeloOne</h1>
+<a href="https://github.com/LucasMeloone" target="blank"><h1 align="center">Hi, I'm LucasMeloOne</h1>
 <h3 align="center">Student of Analysis and Systems Development at FATEC (Faculty of Technology)</h3>
 
 - 📫 How to reach me **lucasdanielferreiradasilva@hotmail.com**
